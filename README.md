@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sagar a frontend web developer and a competitive programmer.
+- 👋 Hi, I’m Sagar currently working as backend developer.
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React.
 
